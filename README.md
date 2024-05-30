@@ -1,5 +1,4 @@
 ﻿# CodePantherTestSite
-Certainly! Here's a simple README template for your HTML and CSS website:
 
 ---
 
@@ -21,7 +20,7 @@ This website is a basic example of a static web page created using only HTML and
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/akshitchowdhury/CodePantherTestSite.git
    ```
 
 2. Open the `index.html` file in your web browser.
