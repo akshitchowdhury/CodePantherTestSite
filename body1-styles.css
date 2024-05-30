@@ -1,3 +1,9 @@
+@media (max-width: 991px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
 /* body1-styles.css */
 .body-container {
   display: flex;
@@ -92,8 +98,8 @@
 
 @media (max-width: 991px) {
   .body-heading {
-      max-width: 100%;
-      font-size: 40px; /* Adjusted font-size for responsiveness */
+      max-width: 90%;
+      font-size: 30px; /* Adjusted font-size for responsiveness */
       line-height: 53px; /* Adjusted line-height for responsiveness */
   }
 }
