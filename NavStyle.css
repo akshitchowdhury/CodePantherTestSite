@@ -97,6 +97,23 @@
   margin: auto 0;
 }
 
+@media (max-width: 991px) {
+  .div-7{
+    margin-left: -7%;
+  }
+
+  .img-2{
+    margin-right: 5%;
+  }
+
+  .div-9 {
+    margin-left: -15%;
+  }
+
+  .img-3{
+    display: none;
+  }
+}
 .div-9 {
   font-family: Inter, sans-serif;
   flex-grow: 1;

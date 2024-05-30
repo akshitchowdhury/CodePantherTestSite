@@ -220,7 +220,7 @@
   /* Responsive design */
   @media (max-width: 767px) {
     .responsive-footer {
-      width: 100% !important;
+      width: 90% !important;
       padding: 20px !important;
       margin-left: 0 !important;
       margin-bottom: 0 !important;
